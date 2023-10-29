@@ -1,0 +1,10 @@
+Power Bi Projects
+1. Hr Analytics
+https://app.powerbi.com/view?r=eyJrIjoiOWM4NDUzZjItZTk5ZS00MDI0LWJmYzMtNTExMDk2Y2Q3ZDIxIiwidCI6IjlkZGU1ODEwLTE4ZjQtNGYzNi1iYWUyLTdhMTQ4NWY4ZDg0OSJ9
+
+
+2. Global Terrorism Analysis
+https://app.powerbi.com/view?r=eyJrIjoiZDhlMDRhMzAtN2Y3Ny00OTJjLWJiYTAtYmE4ZmZmYmZhZWFlIiwidCI6IjlkZGU1ODEwLTE4ZjQtNGYzNi1iYWUyLTdhMTQ4NWY4ZDg0OSJ9
+
+3. IPL Analysis
+https://app.powerbi.com/view?r=eyJrIjoiMWEyY2UwZjEtNWI1NS00OTJhLTk3YzEtMzdmMzc4NWNjMjFkIiwidCI6IjlkZGU1ODEwLTE4ZjQtNGYzNi1iYWUyLTdhMTQ4NWY4ZDg0OSJ9
